@@ -1,0 +1,2 @@
+browser->server: Http Post https://fullstack-exampleap.herokuapp.com/new_note_spa
+server-->browser: 201 Response Status Code - Request fullfilled
